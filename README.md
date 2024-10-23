@@ -20,7 +20,7 @@
 <h1 align="center">📚 Image Classification with Pre-trained Models</h1>
 
 <p align="center">
-  <img src="[path_to_your_image](https://drive.google.com/file/d/1bwdvJsRjEAoH3fSe_NdLsno6In5pOEkU/view?usp=drive_link)" alt="Image Classification Example" width="400">
+  <img src="https://github.com/Arif-miad/image-classification/blob/main/download.jfif" alt="Image Classification Example" width="400">
 </p>
 
 ## 🖼️ Overview
